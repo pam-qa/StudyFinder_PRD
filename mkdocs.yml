@@ -12,20 +12,9 @@ theme:
   icon:
     repo: fontawesome/brands/github
   palette:
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: deep purple
-      accent: deep purple
-      toggle:
-        icon: material/weather-night
-        name: Switch to dark mode
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      primary: deep purple
-      accent: deep purple
-      toggle:
-        icon: material/weather-sunny
-        name: Switch to light mode
+    scheme: default
+    primary: white
+    accent: deep purple
   font:
     text: Inter
     code: Roboto Mono
@@ -42,6 +31,7 @@ theme:
     - search.highlight
     - search.share
     - content.code.copy
+    - content.action.edit
 
 extra_css:
   - stylesheets/extra.css
