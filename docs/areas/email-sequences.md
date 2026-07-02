@@ -1,7 +1,5 @@
 # 4.6 Email Sequences
 
-[← Companies, Sponsors & Contacts](companies-sponsors-contacts.md) · [Home](../index.md) · Next: [Templates →](templates.md)
-
 Email Sequences allow users to automate outreach to relevant contacts using reusable templates and
 scheduled steps.
 
@@ -28,7 +26,3 @@ scheduled steps.
 - Digest email functionality may summarize outreach activity.
 - AI Email Outreach features should only be available to **Growth** and **Enterprise** users
   ([subscription tiers](../03-subscription-tiers.md)).
-
----
-
-[← Companies, Sponsors & Contacts](companies-sponsors-contacts.md) · [Home](../index.md) · Next: [Templates →](templates.md)

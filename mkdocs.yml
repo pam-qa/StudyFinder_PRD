@@ -7,32 +7,44 @@ edit_uri: edit/main/docs/
 
 theme:
   name: material
+  logo: assets/logo.svg
+  favicon: assets/logo.svg
+  icon:
+    repo: fontawesome/brands/github
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: indigo
-      accent: indigo
+      primary: deep purple
+      accent: deep purple
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: indigo
-      accent: indigo
+      primary: deep purple
+      accent: deep purple
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
+  font:
+    text: Inter
+    code: Roboto Mono
   features:
+    # Paging pattern (GitBook / Axie style)
     - navigation.instant
+    - navigation.instant.progress
     - navigation.tracking
-    - navigation.expand
+    - navigation.indexes
     - navigation.top
-    - navigation.footer
-    - toc.follow
+    - navigation.footer      # prev / next pager at the bottom of each page
+    - toc.follow             # "on this page" rail tracks scroll
     - search.suggest
     - search.highlight
-    - content.action.edit
+    - search.share
     - content.code.copy
+
+extra_css:
+  - stylesheets/extra.css
 
 markdown_extensions:
   - admonition
@@ -55,7 +67,7 @@ nav:
   - 2. Product Goals: 02-product-goals.md
   - 3. Subscription Tiers: 03-subscription-tiers.md
   - 4. Core Product Areas:
-      - Overview: 04-core-product-areas.md
+      - 04-core-product-areas.md
       - 4.1 Study Discovery: areas/study-discovery.md
       - 4.2 Search & Filtering: areas/search-and-filtering.md
       - 4.3 Study Cards & Details: areas/study-cards-and-details.md

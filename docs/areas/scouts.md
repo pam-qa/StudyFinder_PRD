@@ -1,7 +1,5 @@
 # 4.4 Scouts
 
-[← Study Cards & Study Details](study-cards-and-details.md) · [Home](../index.md) · Next: [Companies, Sponsors & Contacts →](companies-sponsors-contacts.md)
-
 Scouts support the review and organization of high-potential study opportunities.
 
 Common report groupings include:
@@ -18,7 +16,3 @@ Common report groupings include:
 - Scout results should remain connected to the original study record where applicable.
 - Scout usage limits, match limits, and report availability should follow the user's
   [subscription tier](../03-subscription-tiers.md).
-
----
-
-[← Study Cards & Study Details](study-cards-and-details.md) · [Home](../index.md) · Next: [Companies, Sponsors & Contacts →](companies-sponsors-contacts.md)

@@ -1,7 +1,5 @@
 # 4.10 User Management
 
-[← Analytics](analytics.md) · [Home](../index.md)
-
 User Management controls platform access and user-level permissions.
 
 ## Requirements
@@ -15,7 +13,3 @@ User Management controls platform access and user-level permissions.
 - Permissions should be consistently applied across StudyFinder features.
 - The number of users and invitation capabilities should follow the active
   [subscription tier](../03-subscription-tiers.md).
-
----
-
-[← Analytics](analytics.md) · [Home](../index.md)

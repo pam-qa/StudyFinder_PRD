@@ -1,7 +1,5 @@
 # 4.9 Analytics
 
-[← Tasks & Reports](tasks-and-reports.md) · [Home](../index.md) · Next: [User Management →](user-management.md)
-
 Analytics provides insight into study discovery, scouting activity, contacts, and outreach
 performance.
 
@@ -15,7 +13,3 @@ performance.
 - Custom analytics and reporting should be available to **Enterprise** users.
 
 See [subscription tiers](../03-subscription-tiers.md) for access details.
-
----
-
-[← Tasks & Reports](tasks-and-reports.md) · [Home](../index.md) · Next: [User Management →](user-management.md)

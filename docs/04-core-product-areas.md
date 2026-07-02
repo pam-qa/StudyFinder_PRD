@@ -1,7 +1,5 @@
 # 4. Core Product Areas
 
-[← Subscription Tiers](03-subscription-tiers.md) · [Home](index.md)
-
 StudyFinder is organized into ten core product areas. Each has its own page with functionality and
 requirements.
 
@@ -19,7 +17,3 @@ requirements.
 | 4.10 | [User Management](areas/user-management.md) | Access and permission control |
 
 Feature availability across these areas is governed by [subscription tier](03-subscription-tiers.md).
-
----
-
-[← Subscription Tiers](03-subscription-tiers.md) · [Home](index.md)

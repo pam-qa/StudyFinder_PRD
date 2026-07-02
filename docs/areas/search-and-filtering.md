@@ -1,7 +1,5 @@
 # 4.2 Search and Filtering
 
-[← Study Discovery](study-discovery.md) · [Home](../index.md) · Next: [Study Cards & Study Details →](study-cards-and-details.md)
-
 Users should be able to search and narrow study results using relevant criteria, including:
 
 - Therapeutic area
@@ -22,7 +20,3 @@ Users should be able to search and narrow study results using relevant criteria,
 - Search results should remain consistent across the study listing and study detail views.
 - Negative or exclusion-based filtering may be supported where applicable.
 - Available filters may vary by [subscription tier](../03-subscription-tiers.md).
-
----
-
-[← Study Discovery](study-discovery.md) · [Home](../index.md) · Next: [Study Cards & Study Details →](study-cards-and-details.md)

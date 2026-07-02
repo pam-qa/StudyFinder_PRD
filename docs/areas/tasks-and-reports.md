@@ -1,7 +1,5 @@
 # 4.8 Tasks and Reports
 
-[← Templates](templates.md) · [Home](../index.md) · Next: [Analytics →](analytics.md)
-
 Tasks and Reports help users track outreach work and summarize study discovery activity.
 
 ## Requirements
@@ -13,7 +11,3 @@ Tasks and Reports help users track outreach work and summarize study discovery a
   follow-up.
 - Advanced or custom reporting should be restricted to **Enterprise** users where applicable
   ([subscription tiers](../03-subscription-tiers.md)).
-
----
-
-[← Templates](templates.md) · [Home](../index.md) · Next: [Analytics →](analytics.md)
