@@ -1,4 +1,4 @@
-# 4.1 Study Discovery
+# Study Discovery
 
 StudyFinder provides several areas for users to browse and manage studies:
 

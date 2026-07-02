@@ -1,4 +1,4 @@
-# 4.5 Companies, Sponsors, and Contacts
+# Companies, Sponsors, and Contacts
 
 StudyFinder stores company, sponsor, PI, provider, and related contact information connected to study
 opportunities.

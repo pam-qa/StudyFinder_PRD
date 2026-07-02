@@ -1,4 +1,4 @@
-# 4.2 Search and Filtering
+# Search and Filtering
 
 Users should be able to search and narrow study results using relevant criteria, including:
 

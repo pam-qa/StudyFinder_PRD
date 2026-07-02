@@ -1,4 +1,4 @@
-# 4.8 Tasks and Reports
+# Tasks and Reports
 
 Tasks and Reports help users track outreach work and summarize study discovery activity.
 

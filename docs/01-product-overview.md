@@ -1,4 +1,4 @@
-# 1. Product Overview
+# Product Overview
 
 StudyFinder is a clinical research study discovery and outreach platform that helps users find
 relevant studies, organize opportunities, manage sponsor and provider contacts, and conduct outreach

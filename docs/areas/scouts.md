@@ -1,4 +1,4 @@
-# 4.4 Scouts
+# Scouts
 
 Scouts support the review and organization of high-potential study opportunities.
 

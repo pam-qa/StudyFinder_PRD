@@ -1,4 +1,4 @@
-# 4.3 Study Cards and Study Details
+# Study Cards and Study Details
 
 Study cards provide an at-a-glance summary of each study. Study Details provides the full information
 available for a selected study.

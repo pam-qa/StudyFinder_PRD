@@ -1,4 +1,4 @@
-# 4.10 User Management
+# User Management
 
 User Management controls platform access and user-level permissions.
 

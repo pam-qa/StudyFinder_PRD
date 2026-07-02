@@ -1,4 +1,4 @@
-# 2. Product Goals
+# Product Goals
 
 StudyFinder aims to:
 

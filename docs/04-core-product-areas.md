@@ -1,4 +1,4 @@
-# 4. Core Product Areas
+# Core Product Areas
 
 StudyFinder is organized into ten core product areas. Each has its own page with functionality and
 requirements.

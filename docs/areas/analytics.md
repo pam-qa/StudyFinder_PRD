@@ -1,4 +1,4 @@
-# 4.9 Analytics
+# Analytics
 
 Analytics provides insight into study discovery, scouting activity, contacts, and outreach
 performance.

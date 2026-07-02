@@ -1,4 +1,4 @@
-# 3. Subscription Tiers and Feature Access
+# Subscription Tiers and Feature Access
 
 StudyFinder offers four subscription tiers: **Lite**, **Core**, **Growth**, and **Enterprise**.
 Feature availability and usage limits vary by plan.
@@ -14,7 +14,7 @@ Feature availability and usage limits vary by plan.
 | **AI FQ Filler** | Included | Included | Included | Included |
 | **AI Email Outreach** | Not available; upgrade required | Not available; upgrade required | Included | Included |
 
-## 3.1 Lite Plan
+## Lite Plan
 
 The Lite plan is a free, limited-access option for users who want to explore StudyFinder's study
 discovery capabilities.
@@ -35,7 +35,7 @@ discovery capabilities.
 - No team management
 - No AI Email Outreach
 
-## 3.2 Core Plan
+## Core Plan
 
 **Price:** $199 per month
 
@@ -58,7 +58,7 @@ CRM capabilities.
 - Team management is not included
 - Custom analytics and reporting are not included
 
-## 3.3 Growth Plan
+## Growth Plan
 
 **Price:** $299 per month
 
@@ -79,7 +79,7 @@ contact engagement.
 - Team management is not included
 - Custom analytics and reporting are not included
 
-## 3.4 Enterprise Plan
+## Enterprise Plan
 
 **Price:** $999 per month
 
@@ -98,7 +98,7 @@ reporting, and team-level management.
 - AI FQ Filler
 - AI Email Outreach
 
-## 3.5 Upgrade Paths
+## Upgrade Paths
 
 - **Lite → Core:** unlock full study access, company access, and Contact Intelligence.
 - **Core → Growth:** access AI Email Outreach.

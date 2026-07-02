@@ -1,4 +1,4 @@
-# 4.6 Email Sequences
+# Email Sequences
 
 Email Sequences allow users to automate outreach to relevant contacts using reusable templates and
 scheduled steps.

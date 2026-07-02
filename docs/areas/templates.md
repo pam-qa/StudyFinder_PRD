@@ -1,4 +1,4 @@
-# 4.7 Templates
+# Templates
 
 Templates allow users to save reusable email content for outreach and sequence creation.
 
