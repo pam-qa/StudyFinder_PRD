@@ -1,6 +1,6 @@
 # 4.6 Email Sequences
 
-[← Companies, Sponsors & Contacts](companies-sponsors-contacts.md) · [Home](../../README.md) · Next: [Templates →](templates.md)
+[← Companies, Sponsors & Contacts](companies-sponsors-contacts.md) · [Home](../index.md) · Next: [Templates →](templates.md)
 
 Email Sequences allow users to automate outreach to relevant contacts using reusable templates and
 scheduled steps.
@@ -31,4 +31,4 @@ scheduled steps.
 
 ---
 
-[← Companies, Sponsors & Contacts](companies-sponsors-contacts.md) · [Home](../../README.md) · Next: [Templates →](templates.md)
+[← Companies, Sponsors & Contacts](companies-sponsors-contacts.md) · [Home](../index.md) · Next: [Templates →](templates.md)

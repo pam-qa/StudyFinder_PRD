@@ -1,6 +1,6 @@
 # 4.3 Study Cards and Study Details
 
-[← Search & Filtering](search-and-filtering.md) · [Home](../../README.md) · Next: [Scouts →](scouts.md)
+[← Search & Filtering](search-and-filtering.md) · [Home](../index.md) · Next: [Scouts →](scouts.md)
 
 Study cards provide an at-a-glance summary of each study. Study Details provides the full information
 available for a selected study.
@@ -16,4 +16,4 @@ available for a selected study.
 
 ---
 
-[← Search & Filtering](search-and-filtering.md) · [Home](../../README.md) · Next: [Scouts →](scouts.md)
+[← Search & Filtering](search-and-filtering.md) · [Home](../index.md) · Next: [Scouts →](scouts.md)

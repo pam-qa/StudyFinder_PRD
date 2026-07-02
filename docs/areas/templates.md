@@ -1,6 +1,6 @@
 # 4.7 Templates
 
-[← Email Sequences](email-sequences.md) · [Home](../../README.md) · Next: [Tasks & Reports →](tasks-and-reports.md)
+[← Email Sequences](email-sequences.md) · [Home](../index.md) · Next: [Tasks & Reports →](tasks-and-reports.md)
 
 Templates allow users to save reusable email content for outreach and sequence creation.
 
@@ -13,4 +13,4 @@ Templates allow users to save reusable email content for outreach and sequence c
 
 ---
 
-[← Email Sequences](email-sequences.md) · [Home](../../README.md) · Next: [Tasks & Reports →](tasks-and-reports.md)
+[← Email Sequences](email-sequences.md) · [Home](../index.md) · Next: [Tasks & Reports →](tasks-and-reports.md)

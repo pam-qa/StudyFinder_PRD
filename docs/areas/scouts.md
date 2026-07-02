@@ -1,6 +1,6 @@
 # 4.4 Scouts
 
-[← Study Cards & Study Details](study-cards-and-details.md) · [Home](../../README.md) · Next: [Companies, Sponsors & Contacts →](companies-sponsors-contacts.md)
+[← Study Cards & Study Details](study-cards-and-details.md) · [Home](../index.md) · Next: [Companies, Sponsors & Contacts →](companies-sponsors-contacts.md)
 
 Scouts support the review and organization of high-potential study opportunities.
 
@@ -21,4 +21,4 @@ Common report groupings include:
 
 ---
 
-[← Study Cards & Study Details](study-cards-and-details.md) · [Home](../../README.md) · Next: [Companies, Sponsors & Contacts →](companies-sponsors-contacts.md)
+[← Study Cards & Study Details](study-cards-and-details.md) · [Home](../index.md) · Next: [Companies, Sponsors & Contacts →](companies-sponsors-contacts.md)

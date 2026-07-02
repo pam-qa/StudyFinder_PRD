@@ -1,6 +1,6 @@
 # 4.2 Search and Filtering
 
-[← Study Discovery](study-discovery.md) · [Home](../../README.md) · Next: [Study Cards & Study Details →](study-cards-and-details.md)
+[← Study Discovery](study-discovery.md) · [Home](../index.md) · Next: [Study Cards & Study Details →](study-cards-and-details.md)
 
 Users should be able to search and narrow study results using relevant criteria, including:
 
@@ -25,4 +25,4 @@ Users should be able to search and narrow study results using relevant criteria,
 
 ---
 
-[← Study Discovery](study-discovery.md) · [Home](../../README.md) · Next: [Study Cards & Study Details →](study-cards-and-details.md)
+[← Study Discovery](study-discovery.md) · [Home](../index.md) · Next: [Study Cards & Study Details →](study-cards-and-details.md)

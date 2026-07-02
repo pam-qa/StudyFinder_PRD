@@ -1,6 +1,6 @@
 # 4.5 Companies, Sponsors, and Contacts
 
-[← Scouts](scouts.md) · [Home](../../README.md) · Next: [Email Sequences →](email-sequences.md)
+[← Scouts](scouts.md) · [Home](../index.md) · Next: [Email Sequences →](email-sequences.md)
 
 StudyFinder stores company, sponsor, PI, provider, and related contact information connected to study
 opportunities.
@@ -18,4 +18,4 @@ opportunities.
 
 ---
 
-[← Scouts](scouts.md) · [Home](../../README.md) · Next: [Email Sequences →](email-sequences.md)
+[← Scouts](scouts.md) · [Home](../index.md) · Next: [Email Sequences →](email-sequences.md)

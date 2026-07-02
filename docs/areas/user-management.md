@@ -1,6 +1,6 @@
 # 4.10 User Management
 
-[← Analytics](analytics.md) · [Home](../../README.md)
+[← Analytics](analytics.md) · [Home](../index.md)
 
 User Management controls platform access and user-level permissions.
 
@@ -18,4 +18,4 @@ User Management controls platform access and user-level permissions.
 
 ---
 
-[← Analytics](analytics.md) · [Home](../../README.md)
+[← Analytics](analytics.md) · [Home](../index.md)

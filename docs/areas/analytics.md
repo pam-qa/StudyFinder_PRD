@@ -1,6 +1,6 @@
 # 4.9 Analytics
 
-[← Tasks & Reports](tasks-and-reports.md) · [Home](../../README.md) · Next: [User Management →](user-management.md)
+[← Tasks & Reports](tasks-and-reports.md) · [Home](../index.md) · Next: [User Management →](user-management.md)
 
 Analytics provides insight into study discovery, scouting activity, contacts, and outreach
 performance.
@@ -18,4 +18,4 @@ See [subscription tiers](../03-subscription-tiers.md) for access details.
 
 ---
 
-[← Tasks & Reports](tasks-and-reports.md) · [Home](../../README.md) · Next: [User Management →](user-management.md)
+[← Tasks & Reports](tasks-and-reports.md) · [Home](../index.md) · Next: [User Management →](user-management.md)

@@ -1,6 +1,6 @@
 # 1. Product Overview
 
-[Home](../README.md) · Next: [Product Goals →](02-product-goals.md)
+[Home](index.md) · Next: [Product Goals →](02-product-goals.md)
 
 StudyFinder is a clinical research study discovery and outreach platform that helps users find
 relevant studies, organize opportunities, manage sponsor and provider contacts, and conduct outreach
@@ -21,4 +21,4 @@ Access to these capabilities is governed by [subscription tier](03-subscription-
 
 ---
 
-[Home](../README.md) · Next: [Product Goals →](02-product-goals.md)
+[Home](index.md) · Next: [Product Goals →](02-product-goals.md)

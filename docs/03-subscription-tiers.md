@@ -1,6 +1,6 @@
 # 3. Subscription Tiers and Feature Access
 
-[← Product Goals](02-product-goals.md) · [Home](../README.md) · Next: [Core Product Areas →](04-core-product-areas.md)
+[← Product Goals](02-product-goals.md) · [Home](index.md) · Next: [Core Product Areas →](04-core-product-areas.md)
 
 StudyFinder offers four subscription tiers: **Lite**, **Core**, **Growth**, and **Enterprise**.
 Feature availability and usage limits vary by plan.
@@ -109,4 +109,4 @@ reporting, and team-level management.
 
 ---
 
-[← Product Goals](02-product-goals.md) · [Home](../README.md) · Next: [Core Product Areas →](04-core-product-areas.md)
+[← Product Goals](02-product-goals.md) · [Home](index.md) · Next: [Core Product Areas →](04-core-product-areas.md)

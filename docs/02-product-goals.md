@@ -1,6 +1,6 @@
 # 2. Product Goals
 
-[← Product Overview](01-product-overview.md) · [Home](../README.md) · Next: [Subscription Tiers →](03-subscription-tiers.md)
+[← Product Overview](01-product-overview.md) · [Home](index.md) · Next: [Subscription Tiers →](03-subscription-tiers.md)
 
 StudyFinder aims to:
 
@@ -15,4 +15,4 @@ StudyFinder aims to:
 
 ---
 
-[← Product Overview](01-product-overview.md) · [Home](../README.md) · Next: [Subscription Tiers →](03-subscription-tiers.md)
+[← Product Overview](01-product-overview.md) · [Home](index.md) · Next: [Subscription Tiers →](03-subscription-tiers.md)

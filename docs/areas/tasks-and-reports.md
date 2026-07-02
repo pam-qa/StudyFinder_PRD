@@ -1,6 +1,6 @@
 # 4.8 Tasks and Reports
 
-[← Templates](templates.md) · [Home](../../README.md) · Next: [Analytics →](analytics.md)
+[← Templates](templates.md) · [Home](../index.md) · Next: [Analytics →](analytics.md)
 
 Tasks and Reports help users track outreach work and summarize study discovery activity.
 
@@ -16,4 +16,4 @@ Tasks and Reports help users track outreach work and summarize study discovery a
 
 ---
 
-[← Templates](templates.md) · [Home](../../README.md) · Next: [Analytics →](analytics.md)
+[← Templates](templates.md) · [Home](../index.md) · Next: [Analytics →](analytics.md)

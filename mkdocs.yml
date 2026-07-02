@@ -1,0 +1,68 @@
+site_name: StudyFinder PRD
+site_description: Product Requirements Document for StudyFinder — a clinical research study discovery and outreach platform.
+site_url: https://pam-qa.github.io/StudyFinder_PRD/
+repo_url: https://github.com/pam-qa/StudyFinder_PRD
+repo_name: pam-qa/StudyFinder_PRD
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.expand
+    - navigation.top
+    - navigation.footer
+    - toc.follow
+    - search.suggest
+    - search.highlight
+    - content.action.edit
+    - content.code.copy
+
+markdown_extensions:
+  - admonition
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+plugins:
+  - search
+
+nav:
+  - Home: index.md
+  - 1. Product Overview: 01-product-overview.md
+  - 2. Product Goals: 02-product-goals.md
+  - 3. Subscription Tiers: 03-subscription-tiers.md
+  - 4. Core Product Areas:
+      - Overview: 04-core-product-areas.md
+      - 4.1 Study Discovery: areas/study-discovery.md
+      - 4.2 Search & Filtering: areas/search-and-filtering.md
+      - 4.3 Study Cards & Details: areas/study-cards-and-details.md
+      - 4.4 Scouts: areas/scouts.md
+      - 4.5 Companies, Sponsors & Contacts: areas/companies-sponsors-contacts.md
+      - 4.6 Email Sequences: areas/email-sequences.md
+      - 4.7 Templates: areas/templates.md
+      - 4.8 Tasks & Reports: areas/tasks-and-reports.md
+      - 4.9 Analytics: areas/analytics.md
+      - 4.10 User Management: areas/user-management.md

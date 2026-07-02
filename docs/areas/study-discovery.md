@@ -1,6 +1,6 @@
 # 4.1 Study Discovery
 
-[← Core Product Areas](../04-core-product-areas.md) · [Home](../../README.md) · Next: [Search & Filtering →](search-and-filtering.md)
+[← Core Product Areas](../04-core-product-areas.md) · [Home](../index.md) · Next: [Search & Filtering →](search-and-filtering.md)
 
 StudyFinder provides several areas for users to browse and manage studies:
 
@@ -18,4 +18,4 @@ contacts, and save it for future action.
 
 ---
 
-[← Core Product Areas](../04-core-product-areas.md) · [Home](../../README.md) · Next: [Search & Filtering →](search-and-filtering.md)
+[← Core Product Areas](../04-core-product-areas.md) · [Home](../index.md) · Next: [Search & Filtering →](search-and-filtering.md)
